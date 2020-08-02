@@ -8,3 +8,5 @@ Written entirely in Lua using the Love2D Engine. The code is based on Pong from 
 3. Change the extension of the file to .love (replace .zip with .love)
 
 Alternatively you may download the executables under releases (only if on Windows) or the pre-configured .love file (Linux and Mac OS)
+
+### In order to play after launching you must press enter twice
